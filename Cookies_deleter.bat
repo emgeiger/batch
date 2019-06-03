@@ -7,7 +7,7 @@ rem =====================
 REM || Gets current day.
 rem =====================
 
-set day=%dat:~7, 2%
+set day=%date:~7, 2%
 
 rem ===================================
 rem || 08 and 09  reads as octal so
